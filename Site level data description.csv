@@ -1,0 +1,20 @@
+Variable,Description
+Site,Site ID
+Rice200,Proportion of Rice at 200m radius
+Rice600,Proportion of Rice at 600m radius
+Rice1000,Proportion of Rice at 1000m radius
+SNH1000,Proportion of Rice semi-natural habitat at 1000m radius
+SNH200,Proportion of Rice semi-natural habitat at 200m radius
+SNH600,Proportion of Rice semi-natural habitat at 600m radius
+Rare,Rarefied species richness
+Hff,Honey bee forager pesticide detection frequency
+Hfq,Honey bee forager PHQ
+Hpf,Honey bee pollen pesticide detection frequency 
+Hpq,Honeybee pollen PHQ
+Mnf,Mason bee nesting material (soil) detection frequency
+Mnq,Mason bee nesting material (soil) PHQ
+Mpf,Mason bee pollen ball pesticide detection frequency 
+Mpq,Mason bee pollen ball PHQ
+Osmiaper,Average number of pollen ball in each tube in each site
+Osmiato,Number of pollen ball in each site
+Osmiatu,Number of tubes occupied by mason bee in each site
