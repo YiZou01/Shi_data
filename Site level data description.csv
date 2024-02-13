@@ -1,11 +1,12 @@
 Variable,Description
 Site,Site ID
-Rice200,Proportion of Rice at 200m radius
-Rice600,Proportion of Rice at 600m radius
-Rice1000,Proportion of Rice at 1000m radius
-SNH1000,Proportion of Rice semi-natural habitat at 1000m radius
-SNH200,Proportion of Rice semi-natural habitat at 200m radius
-SNH600,Proportion of Rice semi-natural habitat at 600m radius
+Rice200,Proportion of Rice at 200m radius (center based on the loction of bee hive)
+Rice600,Proportion of Rice at 600m radius (center based on the loction of bee hive)
+Rice1000,Proportion of Rice at 1000m radius (center based on the loction of bee hive)
+SNH200,Proportion of semi-natural habitat at 200m radius (center based on the loction of bee hive)
+SNH600,Proportion of semi-natural habitat at 600m radius (center based on the loction of bee hive)
+SNH1000,Proportion of semi-natural habitat at 1000m radius (center based on the loction of bee hive)
+SNH1000_2,Proportion of semi-natural habitat at 1000m radius (center based on the loction of pan trap)
 Rare,Rarefied species richness
 Hff,Honey bee forager pesticide detection frequency
 Hfq,Honey bee forager PHQ
@@ -15,6 +16,6 @@ Mnf,Mason bee nesting material (soil) detection frequency
 Mnq,Mason bee nesting material (soil) PHQ
 Mpf,Mason bee pollen ball pesticide detection frequency 
 Mpq,Mason bee pollen ball PHQ
-Osmiaper,Average number of pollen ball in each tube in each site
-Osmiato,Number of pollen ball in each site
+Osmiaper,Average number of pollen balls in each tube in each site
+Osmiato,Number of pollen balls in each site
 Osmiatu,Number of tubes occupied by mason bee in each site
